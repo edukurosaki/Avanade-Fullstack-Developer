@@ -1,0 +1,13 @@
+C:\Users\kuros\Documents\estudo\Avanade Fullstack Developer\Primeiros passos com .NET + C#\dio\bin\Debug\netcoreapp3.1\DIO.exe
+C:\Users\kuros\Documents\estudo\Avanade Fullstack Developer\Primeiros passos com .NET + C#\dio\bin\Debug\netcoreapp3.1\DIO.deps.json
+C:\Users\kuros\Documents\estudo\Avanade Fullstack Developer\Primeiros passos com .NET + C#\dio\bin\Debug\netcoreapp3.1\DIO.runtimeconfig.json
+C:\Users\kuros\Documents\estudo\Avanade Fullstack Developer\Primeiros passos com .NET + C#\dio\bin\Debug\netcoreapp3.1\DIO.runtimeconfig.dev.json
+C:\Users\kuros\Documents\estudo\Avanade Fullstack Developer\Primeiros passos com .NET + C#\dio\bin\Debug\netcoreapp3.1\DIO.dll
+C:\Users\kuros\Documents\estudo\Avanade Fullstack Developer\Primeiros passos com .NET + C#\dio\bin\Debug\netcoreapp3.1\DIO.pdb
+C:\Users\kuros\Documents\estudo\Avanade Fullstack Developer\Primeiros passos com .NET + C#\dio\obj\Debug\netcoreapp3.1\DIO.csprojAssemblyReference.cache
+C:\Users\kuros\Documents\estudo\Avanade Fullstack Developer\Primeiros passos com .NET + C#\dio\obj\Debug\netcoreapp3.1\DIO.AssemblyInfoInputs.cache
+C:\Users\kuros\Documents\estudo\Avanade Fullstack Developer\Primeiros passos com .NET + C#\dio\obj\Debug\netcoreapp3.1\DIO.AssemblyInfo.cs
+C:\Users\kuros\Documents\estudo\Avanade Fullstack Developer\Primeiros passos com .NET + C#\dio\obj\Debug\netcoreapp3.1\DIO.csproj.CoreCompileInputs.cache
+C:\Users\kuros\Documents\estudo\Avanade Fullstack Developer\Primeiros passos com .NET + C#\dio\obj\Debug\netcoreapp3.1\DIO.dll
+C:\Users\kuros\Documents\estudo\Avanade Fullstack Developer\Primeiros passos com .NET + C#\dio\obj\Debug\netcoreapp3.1\DIO.pdb
+C:\Users\kuros\Documents\estudo\Avanade Fullstack Developer\Primeiros passos com .NET + C#\dio\obj\Debug\netcoreapp3.1\DIO.genruntimeconfig.cache

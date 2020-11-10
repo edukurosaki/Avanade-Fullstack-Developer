@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kuros\\Documents\\estudo\\Avanade Fullstack Developer\\Primeiros passos com .NET + C#\\dio\\DIO.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kuros\\Documents\\estudo\\Avanade Fullstack Developer\\Primeiros passos com .NET + C#\\dio\\DIO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kuros\\Documents\\estudo\\Avanade Fullstack Developer\\Primeiros passos com .NET + C#\\dio\\DIO.csproj",
+        "projectName": "DIO",
+        "projectPath": "C:\\Users\\kuros\\Documents\\estudo\\Avanade Fullstack Developer\\Primeiros passos com .NET + C#\\dio\\DIO.csproj",
+        "packagesPath": "C:\\Users\\kuros\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kuros\\Documents\\estudo\\Avanade Fullstack Developer\\Primeiros passos com .NET + C#\\dio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kuros\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
